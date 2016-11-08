@@ -1,0 +1,2 @@
+# CharactorCameraCtrl
+人物的跟随相机遇到障碍物时候的相机位置调整
